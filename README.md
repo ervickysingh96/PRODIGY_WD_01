@@ -1,2 +1,1 @@
-# PRODIGY_WD_01
-A Landing Page
+# Prodigy_WD_01
